@@ -1,2 +1,9 @@
 # Plant-Disease-Detection
-Plant-Disease-Detection is a system designed to identify and diagnose plant diseases through advanced image recognition and machine learning techniques. It helps farmers and agricultural experts detect potential issues early, enabling timely intervention to prevent crop damage and improve yield quality.
+Plant-Disease-Detection utilizes Convolutional Neural Networks (CNNs) to analyze and classify plant images, identifying diseases with high accuracy. By training the CNN model on a vast dataset of plant images, the system is capable of detecting early signs of diseases, allowing farmers to take preventive actions and enhance crop health and productivity.
+
+
+
+
+
+
+
